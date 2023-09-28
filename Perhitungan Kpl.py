@@ -7,10 +7,8 @@ class Window(tk.Tk):
         super(Window, self).__init__()
         
         self.title("Menghitung KPL")
-        self.minsize(480, 320)
-        #self.iconphoto(False, tk.PhotoImage(file=))
+        self.minsize(580, 420)
         self.text_entry()
-        #dani
     
     def hasil(self):
         
