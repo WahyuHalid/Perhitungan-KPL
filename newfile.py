@@ -10,6 +10,7 @@ class Window(tk.Tk):
         self.minsize(480, 320)
         #self.iconphoto(False, tk.PhotoImage(file=))
         self.text_entry()
+        #dani
     
     def hasil(self):
         
